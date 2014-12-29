@@ -37,3 +37,5 @@ Now that you have your workspace set up, what do you want to try using Git for?
     fourth set of changes
 
     fifth change
+
+    sixth set of changes
