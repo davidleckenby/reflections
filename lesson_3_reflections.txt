@@ -11,3 +11,12 @@ Describe the differences between forks, clones, and branches. When would you use
 
 	Forking is a function of being able to clone on the Github servers a direct copy of an open source repository (from Github repo to Github repo). Clones are copying a Github repository directly to ones local repository. Branches are created when one wishes to create a different area to experiment or try new features that is separate from the central master branch. This enables experimentation and new ideas that will not affect the main working code.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	You have a local copy of what is published remotely so that any changes you make from this published version can be tracked easily offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	You could use a shared cloud space of some king and email/phone back and forth to decide upon changes to be finalised etc. It could be a bit faster in some cases without it but with Git and Github everything is tracked and organised very well. There is a learning curve and maybe it would seem more work, but will pay off in the long run with more complex projects and also having a safeguard is vital.
+
+	
